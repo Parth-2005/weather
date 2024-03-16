@@ -50,7 +50,6 @@ class currentWeatherWidget extends StatelessWidget {
               ),
               //Main
               Container(
-                padding: const EdgeInsets.fromLTRB(40, 40, 40, 60),
                 child:
                     Row(mainAxisAlignment: MainAxisAlignment.center, children: [
                   Column(children: [
